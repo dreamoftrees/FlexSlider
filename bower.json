@@ -1,0 +1,20 @@
+{
+  "name": "FlexSlider",
+  "description": "Woothemes FlexSlider 2",
+  "version": "2.4.0",
+  "keywords": [
+    "FlexSlider"
+  ],
+  "homepage": "http://flexslider.woothemes.com/",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:woothemes/FlexSlider.git"
+  },
+  "main": [
+    "jquery.flexslider.js",
+    "flexslider.css"
+  ],
+  "ignore": [
+    "CONTRIBUTING.md"
+  ]
+}
